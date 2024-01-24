@@ -1,0 +1,184 @@
+.frame-child83 {
+  border: 0;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-silver);
+}
+.akhada-test-page-inner {
+  position: absolute;
+  width: calc(100% - 2px);
+  top: 14px;
+  right: 1px;
+  left: 1px;
+  height: 953px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-child84 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: #ef9351;
+}
+.akhada-test-page-child {
+  position: absolute;
+  width: calc(100% - 4px);
+  top: 1655px;
+  right: 3px;
+  left: 1px;
+  height: 612px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-child85 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: #d29a58;
+}
+.akhada-test-page-inner1 {
+  position: absolute;
+  width: calc(100% - 4px);
+  top: 2348px;
+  right: 3px;
+  left: 1px;
+  height: 780px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-child86 {
+  position: absolute;
+  top: 0;
+  left: 738.8px;
+  width: 693.7px;
+  height: 374.1px;
+}
+.frame-child87 {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-silver);
+  height: 374.1px;
+}
+.rectangle-wrapper {
+  position: absolute;
+  height: calc(100% + 21.5px);
+  width: calc(100% - 905.6px);
+  top: -10.7px;
+  right: 916.3px;
+  bottom: -10.8px;
+  left: -10.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10.71782112121582px;
+  box-sizing: border-box;
+}
+.frame-child88 {
+  position: absolute;
+  top: 0;
+  left: 1491.5px;
+  background-color: var(--color-silver);
+  width: 693.7px;
+  height: 374.1px;
+}
+.frame-child89 {
+  position: absolute;
+  top: 381.4px;
+  left: 2244.3px;
+  background: linear-gradient(180deg, #000, transparent);
+  width: 2246px;
+  height: 74.3px;
+  transform: rotate(-179.95deg);
+  transform-origin: 0 0;
+}
+.vanraksash {
+  top: -6.9px;
+  left: 2px;
+}
+.attack2,
+.parcha2,
+.vanraksash {
+  position: absolute;
+  font-weight: 600;
+}
+.attack2 {
+  top: -5.6px;
+  left: 743px;
+  font-size: 28.1px;
+}
+.parcha2 {
+  top: -6.6px;
+  left: 1491.4px;
+  font-size: var(--font-size-11xl-6);
+}
+.vanraksash-parent,
+.vector-parent {
+  position: absolute;
+  top: 338px;
+  left: 4px;
+  width: 1625px;
+  height: 30px;
+  overflow-x: auto;
+}
+.vector-parent {
+  top: 1134px;
+  left: 11px;
+  width: 1596px;
+  height: 374px;
+}
+.more-for-you {
+  position: absolute;
+  top: 1080px;
+  left: 11px;
+  font-size: 36.6px;
+  font-weight: 600;
+  color: var(--color-orangered);
+  text-align: center;
+}
+.akhada2 {
+  position: absolute;
+  top: 978.4px;
+  left: 10px;
+  font-size: 44.7px;
+}
+.documentry {
+  flex: 1;
+  position: relative;
+}
+.documentry-wrapper {
+  position: absolute;
+  top: 966px;
+  left: calc(50% + 530px);
+  width: 308px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 11px;
+  box-sizing: border-box;
+  font-size: 41.4px;
+}
+.akhada-test-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  height: 3173px;
+  text-align: left;
+  font-size: 29.2px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  inset: 0;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-league-gothic: "League Gothic";
+  --font-alegreya-sans-sc: "Alegreya Sans SC";
+  --font-antic: Antic;
+  --font-koulen: Koulen;
+  --font-farro: Farro;
+  --font-annie-use-your-telescope: "Annie Use Your Telescope";
+
+  /* font sizes */
+  --font-size-mid-9: 17.9px;
+  --font-size-lg-2: 18.2px;
+  --font-size-mini-5: 14.5px;
+  --font-size-mid-5: 17.5px;
+  --font-size-mid-7: 17.7px;
+  --font-size-3xl-5: 22.5px;
+  --font-size-xs-7: 11.7px;
+  --font-size-base-6: 15.6px;
+  --font-size-3xl-8: 22.8px;
+  --font-size-lgi-3: 19.3px;
+  --font-size-3xl: 22px;
+  --font-size-20xl-5: 39.5px;
+  --font-size-lg-4: 18.4px;
+  --font-size-9xl-2: 28.2px;
+  --font-size-11xl-6: 30.6px;
+  --font-size-smi: 13px;
+  --font-size-mini-3: 14.3px;
+  --font-size-4xl-6: 23.6px;
+  --font-size-12xl-1: 31.1px;
+  --font-size-11xl-4: 30.4px;
+  --font-size-22xl-5: 41.5px;
+  --font-size-lg: 18px;
+  --font-size-lgi: 19px;
+  --font-size-mini-7: 14.7px;
+  --font-size-mid-8: 17.8px;
+  --font-size-2xs-4: 10.4px;
+  --font-size-base-9: 15.9px;
+  --font-size-6xl-8: 25.8px;
+  --font-size-lgi-6: 19.6px;
+  --font-size-16xl-1: 35.1px;
+  --font-size-16xl-2: 35.2px;
+  --font-size-29xl: 48px;
+  --font-size-19xl: 38px;
+  --font-size-xl-5: 20.5px;
+  --font-size-13xl: 32px;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gray-100: #fafafa;
+  --color-gray: #101010;
+  --color-gray-200: rgba(0, 0, 0, 0.14);
+  --color-orangered: #ff6b00;
+  --color-white: #fff;
+  --color-silver: #c4c4c4;
+  --color-darkslategray-100: #313030;
+  --color-darkslategray-200: rgba(56, 64, 64, 0.77);
+  --color-gainsboro: #d9d9d9;
+  --color-khaki: #f5c870;
+  --color-mediumaquamarine: #74c297;
+  --color-whitesmoke: #f6f6f6;
+  --color-chocolate: #f0771a;
+  --color-darkseagreen: #73a580;
+  --color-goldenrod: #e1ad01;
+  --color-darkkhaki: #95ab67;
+  --color-darkcyan: #00999e;
+  --color-sandybrown: #eb9d61;
+  --color-lightgray: #cdcdcd;
+  --color-red-100: #ff0707;
+  --color-red: #d40000;
+  --color-dimgray-100: #746f6f;
+  --color-dimgray: #686868;
+
+  /* Gaps */
+  --gap-541xl: 560px;
+  --gap-3xs: 10px;
+  --gap-smi-5: 12.5px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-sm: 14px;
+  --padding-4xs: 9px;
+  --padding-xl: 20px;
+  --padding-10xs-5: 2.5px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}
